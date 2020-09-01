@@ -2,3 +2,11 @@
 .jxbrowser-data/
 RemoteSystemsTempFiles/
 dvt/
+FreeRTOS_tiva_demo/
+TM4C129_FreeRTOS_Demo-master/
+
+
+**/.launches/
+**/.settings/
+**/Debug/
+**/targetConfigs/
